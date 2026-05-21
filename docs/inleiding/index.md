@@ -1,4 +1,4 @@
-# Inleinding
+# Inleiding
 
 ## COPYRIGHT-NOTITIE
 
